@@ -29,7 +29,7 @@ A scalable, stealthy Shopee scraper built in TypeScript that:
 | Shopee API Integration       | Hits Shopee's private `get_pc` endpoint |
 
 ## ↩️ Sequence Diagram
-![Sequence Diagram]([docs/seq_diagram.png](https://github.com/rusaakkmods/shopee_scraper_api/blob/main/docs/seq_diagram.PNG))
+![Sequence Diagram](https://mangjayasparepart.id/images/online_test/seq_diagram.PNG)
 
 ### Flow
 | Layer         | Role                                              |
