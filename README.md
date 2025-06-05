@@ -30,6 +30,7 @@ A scalable, stealthy Shopee scraper built in TypeScript that:
 
 ## ↩️ Sequence Diagram
 ![Sequence Diagram](https://mangjayasparepart.id/images/online_test/seq_diagram.PNG)
+[View/edit this sequence diagram on Swimlanes.io](https://swimlanes.io/#bVJNT8MwDL3nV/iEQGjiXgkQQmzahKBSuaMsdbdooQmOu7b/niTraPdxalS/5/f8bNZsMINiax0iFIqkQ4KXfAlzY1u4bTVvYS6NWUu1uxPi1WisGWZPCbOQjK3sM1i8fcGDT02ePVvCZfnYdd2NZvwJz77vxQQf6QfFObLaImWwl0aXoQqyLqGy1EoqxQkmaXbaeniXfaREzQ3yt1OQXDqyXZAZIaNMNJsB4W+DniOwbBTDqvj8ECMAZucKEQCWAIksnXa+nICQG6rDxztbexx5l2PkjXPIGFnVEC3oCtbGqh2W4r88GSAfPOdyE9a1116Pc7jwT1zBJZcTLeyYZKgpa3caPdyD8lRdlUt5VdHxMeK9lrAm2/qAWxXnsU1UhhxSuJPWl4F5DKtOEYfMGsNXgjq5saFxpWtpjpSzozpcZzYsoTzcRXLyBw==)
 
 ### Flow
 | Layer         | Role                                              |
